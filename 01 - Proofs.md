@@ -25,12 +25,10 @@ $$
 7. Goldbach's Conjecture
     $\text{Every even integer greater than 2 is the sum of 2 primes}$
     Remains unproven till today
-### Definition - Theorem
-A theorem is an **important true** proposition
-### Definition - Lemma
-A lemma is a **preliminary** proposition useful for later propositions
-### Definition - Corollary
-A corollary is a proposition that follows in just a few logical steps from a **theorem**
+### Other Definitions
+- Theorem - A theorem is an **important true** proposition
+- Lemma - A lemma is a **preliminary** proposition useful for later propositions
+- Corollary - A corollary is a proposition that follows in just a few logical steps from a **theorem**
 ## Predicates
 ### Definition - Predicate
 A predicate is a **proposition** whose truth **depends** on the value of one or more variables
