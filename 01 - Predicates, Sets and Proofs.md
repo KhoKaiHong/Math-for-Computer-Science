@@ -25,3 +25,26 @@ $$
 7. Goldbach's Conjecture
     $\text{Every even integer greater than 2 is the sum of 2 primes}$
     Remains unproven till today
+## Predicates
+### Definition - Predicate
+A predicate is a **proposition** whose truth **depends** on the value of one or more variables
+### Examples
+1. $n^2 + n + 41 \; \text{is prime}$, which can also be written in a function-like notation as
+$$P(n) ::= \text{``}n^2 + n + 41 \; \text{is prime"}$$
+    We can assert from the predicate that $P(2) = 47$ , which fulfills the predicate with 2 as the value of $n$, creating a true proposition
+    
+    We can assert from the predicate that $P(40) = 1681 = 41^2$, which fulfills the predicate with 40 as the value of $n$, creating a false proposition
+    
+    We can assert from the predicate that $n$ belongs to a natural number, creating the proposition $\forall \; n \in \mathbb{N} \; . \; n^2 + n + 41 \; \text{is prime}$, which can be true or false
+    
+    Thus, if $P$ is a predicate, then $P(n)$ is either true or false, depending on the value of $n$
+## The Axiomatic Method
+### Definition - Axiom
+An axiom is a **proposition** we **assume** is true
+### Examples
+1. 5 axioms from Euclidean geometry
+	1. A straight line may be drawn between any two points
+	2. Any terminated straight line may be extended indefinitely
+	3. A circle may be drawn with any given point as center and any given radius
+	4. All right angles are equal
+	5. For any point $p$ and line $l$ with $p \notin l$, there $\exists$ a unique line $l^ \prime$ through $p$ parallel to $l$
