@@ -25,6 +25,12 @@ $$
 7. Goldbach's Conjecture
     $\text{Every even integer greater than 2 is the sum of 2 primes}$
     Remains unproven till today
+### Definition - Theorem
+A theorem is an **important true** proposition
+### Definition - Lemma
+A lemma is a **preliminary** proposition useful for later propositions
+### Definition - Corollary
+A corollary is a proposition that follows in just a few logical steps from a **theorem**
 ## Predicates
 ### Definition - Predicate
 A predicate is a **proposition** whose truth **depends** on the value of one or more variables
@@ -47,4 +53,8 @@ An axiom is a **proposition** we **assume** is true
 	2. Any terminated straight line may be extended indefinitely
 	3. A circle may be drawn with any given point as center and any given radius
 	4. All right angles are equal
-	5. For any point $p$ and line $l$ with $p \notin l$, there $\exists$ a unique line $l^ \prime$ through $p$ parallel to $l$
+	5. For any point $p$ and line $l$ with $p \notin l$, there $\exists$ a unique line $l^\prime$ 
+	The fifth axiom is also known as Euclid's Parallel Postulate, as shown in the diagram below:
+	![[euclid-parallel-postulate]]
+	Attempts to deduce Euclid's Parallel Postulate from the first 4 axioms remained a great challenge, until it was proven that it did not follow them, and is indeed an axiom.
+
