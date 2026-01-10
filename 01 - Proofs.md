@@ -51,7 +51,7 @@ An axiom is a **proposition** we **assume** is true
 	2. Any terminated straight line may be extended indefinitely
 	3. A circle may be drawn with any given point as center and any given radius
 	4. All right angles are equal
-	5. For any point $p$ and line $l$ with $p \notin l$, there $\exists$ a unique line $l^\prime$ 
+	5. For any point $p$ and line $l$ with $p \notin l$, there $\exists$ a unique line $l^\prime$ through $p$ parallel to $l$
 	The fifth axiom is also known as Euclid's Parallel Postulate, as shown in the diagram below:
 	![[euclid-parallel-postulate]]
 	Multiple attempts have been made to deduce Euclid's Parallel Postulate from the first 4 axioms, until it was proven that it did not follow them, and is indeed an axiom itself.
