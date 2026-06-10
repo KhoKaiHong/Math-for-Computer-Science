@@ -56,3 +56,6 @@ An axiom is a **proposition** we **assume** is true
 	![[euclid-parallel-postulate]]
 	Multiple attempts have been made to deduce Euclid's Parallel Postulate from the first 4 axioms, until it was proven that it did not follow them, and is indeed an axiom itself.
 
+### Consistency and Completeness
+- A set of axioms is consistent when you can't prove that false is true
+- A set of axioms is complete
